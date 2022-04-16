@@ -1,0 +1,43 @@
+TUTORIAL:
+
+The goal in the maze game is to complete the maze alive.
+
+The interactions in the game:
+
+You can move in the maze using the arrow keys.
+
+The Shamans (S): 
+These guys are fantastic creatures which can increase your strenght for a price.
+They can be found in dead corners of the maze. 
+The same Shaman can not increase your power twice. They will disappear after they power you up.
+
+The Bandits (E):
+Cunning enemies which will attack you the second you give them the chance.
+You better increase your powers fast because these guys are a threat and if they can beat you you will lose your money or even your life.
+You will need at least 10 strenght to be able to beat these enemies.
+
+The Bandits' Boss (B):
+He, is the final boss of the maze, a ruthless killer. If you are not strong enough to beat him you will lose your life on the spot.
+You will need at least 25 strenght to be able to beat this foe.
+
+Small chests (=):
+These small chests do not give you a lot but they are for free so there is no point in leaving them unlooted.
+
+The Big Chest ($):
+This is the biggest chest you can find in the maze. You have to travel a lot to reach it but it is worth the trouble.
+
+The Keys (C):
+Universal keys that can open any door but they get destroyed in the process.
+
+The Doors (+):
+Locked doors that block the path. They can only be opened by keys you find in the maze.
+
+The lamp (L):
+It is a normal lamp which will enlighten your way through dark places in the maze.
+
+The Player (P):
+The character you are playing with.
+
+The maze does not have any light in it. You have only the map to help you get through the maze. 
+On the harder difficulty a part of the map you have is erased so you will have to find a lamp to find your way throught the erased part of the map.
+That is all. Have fun in your adventure.
